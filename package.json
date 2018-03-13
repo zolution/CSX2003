@@ -1,0 +1,19 @@
+{
+  "name": "csx2003",
+  "version": "1.0.0",
+  "description": "Test db for csx2003",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zolution/CSX2003.git"
+  },
+  "author": "zolution",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zolution/CSX2003/issues"
+  },
+  "homepage": "https://github.com/zolution/CSX2003#readme"
+}
