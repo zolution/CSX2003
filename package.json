@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zolution/CSX2003/issues"
   },
-  "homepage": "https://github.com/zolution/CSX2003#readme"
+  "homepage": "https://github.com/zolution/CSX2003#readme",
+  "dependencies": {
+    "mongodb": "^3.0.4"
+  }
 }
