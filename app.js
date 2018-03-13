@@ -39,7 +39,8 @@ MongoClient.connect(url, (err, client) => {
   console.log("Connected successfully to server");
 
   const db = client.db(dbName);
-
+  const collection = db.collection('Student');
+  
   client.close();
 });
 
